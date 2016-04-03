@@ -152,12 +152,6 @@
             "author": "BlazePX",
             "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/ocean_rock.png",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/ocean_rock.jpg",
-            "name": ""
-          },  
-                    	     {
-            "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/.png",
-            "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/.jpg",
             "name": "Ocean Rock"
           },  
                     	     {
