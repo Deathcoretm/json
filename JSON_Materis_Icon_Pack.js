@@ -96,91 +96,91 @@
           },
           	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/beach_vacation.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/beach_vacation.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/beach_vacation.jpg",
             "name": "Beach Vacation"
           },
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/blue_rock.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/blue_rock.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/blue_rock.jpg",
             "name": "Blue Rock"
           },  
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/earth_sea.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/earth_sea.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/earth_sea.jpg",
             "name": "Earth Sea"
           },  
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/earthview_sky.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/earthview_sky.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/earthview_sky.jpg",
             "name": "Earthview Sky"
           },  
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/green_moss.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/green_moss.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/green_moss.jpg",
             "name": "Green Moss"
           },  
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/mountain_layers_1.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/mountain_layers_1.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/mountain_layers_1.jpg",
             "name": "Mountain Layers 1"
           },  
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/mountain_layers_2.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/mountain_layers_2.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/mountain_layers_2.jpg",
             "name": "Mountain Layers 2"
           },  
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/mountain_peace.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/mountain_peace.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/mountain_peace.jpg",
             "name": "Mountain Peace"
           },  
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/mountain_sky.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/mountain_sky.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/mountain_sky.jpg",
             "name": "Mountain Sky"
           },  
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/ocean_rock.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/ocean_rock.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/ocean_rock.jpg",
             "name": "Ocean Rock"
           },  
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/ocean_rock_2.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/ocean_rock_2.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/ocean_rock_2.jpg",
             "name": "Ocean Rock 2"
           },  
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/sea_rock.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/sea_rock.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/sea_rock.jpg",
             "name": "Sea Rock"
           },  
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/snow_sky.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/snow_sky.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/snow_sky.jpg",
             "name": "Snow Sky"
           },  
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/straight_lines.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/straight_lines.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/straight_lines.jpg",
             "name": "Straight Lines"
           },  
                     	     {
             "author": "BlazePX",
-            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/summer_pattern.png",
+            "url": "http://googledrive.com/host/0B7EE4ooGQrvyVWRnY3NxcFpJVlk/summer_pattern.jpg",
             "thumbUrl": "http://googledrive.com/host/0B7EE4ooGQrvyUVpvalU0RzEwbkE/summer_pattern.jpg",
             "name": "Summer Pattern"
           },  
