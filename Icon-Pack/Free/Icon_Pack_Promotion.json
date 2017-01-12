@@ -1,20 +1,19 @@
 {
     "wallpapers": [
-    	          {
-            "name": "Extra Materis",
-            "image": "http://googledrive.com/host/0BxjvC7eaf0CHQ0ExYnBoTnY5Nzg/promotion_2.jpg",
-	    "link": "http://tiny.cc/materis_forcm"
+              {
+            "name": "New Materis",
+            "image": "https://dl.dropboxusercontent.com/s/mv9bfjhm4sqo5sl/promotion_2.jpg",
+        "link": "http://tiny.cc/materis_forcm"
           },
-    	          {
+                  {
             "name": "Materis - Icon Pack Premium",
-            "image": "https://drive.google.com/uc?export=download&id=0BxjvC7eaf0CHWVJEQnU1RW1MeFU",
-	    "link": "http://tiny.cc/materis_premium"
+            "image": "https://dl.dropboxusercontent.com/s/ifsd70g9i8z9qd9/promotion_3.png",
+        "link": "http://tiny.cc/materis_premium"
           },
-		  {
+          {
             "name": "Minimalis - Wallpapers",
-            "image": "https://drive.google.com/uc?export=download&id=0BxjvC7eaf0CHbGdOUDFUczZxQnc",
-	    "link": "http://tiny.cc/minimalis"
+            "image": "https://dl.dropboxusercontent.com/s/2qtrrcqxekurit1/promotion_1.jpg",
+        "link": "http://tiny.cc/minimalis"
           }
-
-	]
+    ]
 }
